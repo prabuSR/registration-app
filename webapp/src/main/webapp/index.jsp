@@ -32,7 +32,6 @@
   </div>
 
    <h1> Thank You, Happy Learning </h1>
-   <h1> See You Again </h1>
-  <h1> by Prabu.S.R</h1>
+   <h1> prabu.sr </h1>
   
 </form>
